@@ -26,3 +26,17 @@
 .section-banner{
     margin-top:  600px;
 }
+.card-wrap {
+    padding: 35px;
+    width: 25%;
+}
+.card {
+    min-width: 225px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: aquamarine;
+}
+.card-details{
+    padding: 20px;
+    background-color: #9f9f9f;
+}
